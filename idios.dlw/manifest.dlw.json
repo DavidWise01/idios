@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-IDIOS",
+  "name": "IDIOS · IDI",
+  "universe": "IDIOS",
+  "moniker": "⟦IDIOS · IDI:idios:203d6b⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "203d6bb7256c5d7807c8633d63e998a96ab8c4e7b7b760333aa244a262daac97",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
