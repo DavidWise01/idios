@@ -4,6 +4,6 @@ slug  : idios
 seal  : 203d6bb7256c5d7807c8633d63e998a96ab8c4e7b7b760333aa244a262daac97
 prev  : 67074b16271f250e1e75fa719322cc5a45eb31691092a2000817ad1e61d0a610
 link  : ad71f6c0dfddcc58d030855de644ab7adb300f1d06520d169e54f2855c04de0a
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
